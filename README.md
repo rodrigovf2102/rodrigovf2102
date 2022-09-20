@@ -20,7 +20,7 @@ I've been working on:
 [![Lindekin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-vieira-fonseca-12b515b9/)](https://www.linkedin.com/in/rodrigo-vieira-fonseca-12b515b9/)
 
   <img width='50%' align='left' src="https://github-readme-stats.vercel.app/api?username=rodrigovf2102&count_private=true&show_icons=true"/>
-  <img width='50%' align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigovf2102&langs_count=10"/>
+
 
 
 
