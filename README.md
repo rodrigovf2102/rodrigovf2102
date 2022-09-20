@@ -10,6 +10,9 @@ I've been working on:
 ![mongodb](https://user-images.githubusercontent.com/106849328/191319783-2cd32a3d-5541-4c4f-945e-bc35d71ffaf5.svg)
 ![csharp](https://user-images.githubusercontent.com/106849328/191320017-974752e7-7335-455b-9920-cd0cd7872de5.svg)
 ![fortran](https://user-images.githubusercontent.com/106849328/191320138-4bde83b0-d084-44b8-81b4-1cbc4cce6f55.svg)
+![nodedotjs](https://user-images.githubusercontent.com/106849328/191326380-5210c4b3-7a51-4284-b417-80723aa4ddd5.svg)
+![git](https://user-images.githubusercontent.com/106849328/191326596-d58d2afc-09d0-4bfd-9e73-a2331b851a3a.svg)
+![github](https://user-images.githubusercontent.com/106849328/191326709-f88e8364-c6cd-49ef-b60e-eecfc885a1bd.svg)
 
 
 
