@@ -18,6 +18,8 @@ I've been working on:
 
 
 
+
+
 <div>For more information:</div>
 
 [![Lindekin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-vieira-fonseca-12b515b9/)](https://www.linkedin.com/in/rodrigo-vieira-fonseca-12b515b9/)
