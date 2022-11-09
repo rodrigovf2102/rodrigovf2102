@@ -1,6 +1,7 @@
 <h3>Hello World 👋</h3>
 My name is Rodrigo, I'm a Software Developer and a Researcher with master's degree in Computational Mechanics;
 I've been working on:
+
 <div>.</div>
 
 ![javascript](https://user-images.githubusercontent.com/106849328/191318900-3dafb13d-0756-4742-9c48-90c9965015cd.svg)
