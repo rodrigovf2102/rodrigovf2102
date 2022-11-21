@@ -16,6 +16,8 @@ I've been working on:
 ![git](https://user-images.githubusercontent.com/106849328/191326596-d58d2afc-09d0-4bfd-9e73-a2331b851a3a.svg)
 ![github](https://user-images.githubusercontent.com/106849328/191326709-f88e8364-c6cd-49ef-b60e-eecfc885a1bd.svg)
 ![typescript](https://user-images.githubusercontent.com/106849328/203078930-d93a7629-c068-47b3-b704-92f6c00362cc.svg)
+![prisma-3](https://user-images.githubusercontent.com/106849328/203080131-da03793f-9573-479e-a9de-304ae0dcdac7.svg)
+
 
 
 
