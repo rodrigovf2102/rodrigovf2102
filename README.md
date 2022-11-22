@@ -31,7 +31,7 @@ I've been working on:
 
 <div>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigovf2102&show_icons=true&locale=en" alt="rodrigovf2102" align="left" />
-  <img width='40%' height='300' align='left' src="https://github-readme-stats.vercel.app/api?username=rodrigovf2102&count_private=true&show_icons=true" />
+  <img align='left' src="https://github-readme-stats.vercel.app/api?username=rodrigovf2102&count_private=true&show_icons=true" />
   </div>
   
  
