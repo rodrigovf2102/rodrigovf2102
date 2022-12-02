@@ -15,6 +15,7 @@ I've been working on:
 ![github](https://user-images.githubusercontent.com/106849328/191326709-f88e8364-c6cd-49ef-b60e-eecfc885a1bd.svg)
 ![typescript](https://user-images.githubusercontent.com/106849328/203078930-d93a7629-c068-47b3-b704-92f6c00362cc.svg)
 ![prisma-3](https://user-images.githubusercontent.com/106849328/203080131-da03793f-9573-479e-a9de-304ae0dcdac7.svg)
+![jest-svgrepo-com](https://user-images.githubusercontent.com/106849328/205308134-5052a3d7-6203-481e-a630-ebf9fd6a6257.svg)
 
 
 
