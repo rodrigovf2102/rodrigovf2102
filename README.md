@@ -19,12 +19,6 @@ I've been working on:
 ![jest-svgrepo-com](https://user-images.githubusercontent.com/106849328/205308134-5052a3d7-6203-481e-a630-ebf9fd6a6257.svg)
 
 
-
-
-
-
-
-
 <div>For more information:</div>
 
 [![Lindekin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-vieira-fonseca-12b515b9/)](https://www.linkedin.com/in/rodrigo-vieira-fonseca-12b515b9/)
