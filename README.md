@@ -17,8 +17,8 @@ I've been working on:
 ![github](https://user-images.githubusercontent.com/106849328/191326709-f88e8364-c6cd-49ef-b60e-eecfc885a1bd.svg)
 ![prisma-3](https://user-images.githubusercontent.com/106849328/203080131-da03793f-9573-479e-a9de-304ae0dcdac7.svg)
 ![jest-svgrepo-com](https://user-images.githubusercontent.com/106849328/205308134-5052a3d7-6203-481e-a630-ebf9fd6a6257.svg)
-![4601761591536126577](https://user-images.githubusercontent.com/106849328/217074362-d25c21c5-58b0-44be-97ac-fd91024ff0a0.svg)
-![12099885771536233213](https://user-images.githubusercontent.com/106849328/217074482-8cc6d041-5fa3-4ec4-b667-2111e9a12d7f.svg)
+![4601761591536126577](https://user-images.githubusercontent.com/106849328/217075010-f5c4bc21-9486-4180-8163-7def6ef12cfc.svg)
+![12099885771536233213](https://user-images.githubusercontent.com/106849328/217075015-c65d8328-fe20-42fa-a210-a873c477aa2e.svg)
 
 
 <div>For more information:</div>
