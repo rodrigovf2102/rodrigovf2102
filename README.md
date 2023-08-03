@@ -26,7 +26,10 @@ I've been working on:
 [![Lindekin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-vieira-fonseca-12b515b9/)](https://www.linkedin.com/in/rodrigo-vieira-fonseca-12b515b9/)
 
  
-
+<div>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigovf2102&show_icons=true&locale=en&langs_count=6" alt="rodrigovf2102" align="left" />
+  </div>
+  
 
 
 
